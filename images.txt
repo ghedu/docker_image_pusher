@@ -23,7 +23,6 @@ whyour/qinglong:2.11.3
 snowdreamtech/frpc
 syncthing/syncthing
 percona/watchtower
-frooodle/s-pdf
 xiaojusurvey/xiaoju-survey
 cym1102/nginxwebui
 linuxserver/plex
