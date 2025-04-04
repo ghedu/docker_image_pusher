@@ -13,11 +13,9 @@ mariadb:10.0.25
 mariadb
 mongo
 redis
-
 #智能家居系列
 homeassistant/home-assistant:latest
 youshandefeiyang/allinone:latest
-
 #其他
 whyour/qinglong:2.11.3
 snowdreamtech/frpc
@@ -30,5 +28,3 @@ jellyfin/jellyfin
 jenserat/seafile
 tinymediamanager/tinymediamanager
 idootop/mi-gpt-tts
-
-
