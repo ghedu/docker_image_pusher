@@ -28,4 +28,5 @@ jellyfin/jellyfin
 jenserat/seafile
 tinymediamanager/tinymediamanager
 idootop/mi-gpt-tts
-docker pull frooodle/s-pdf:alpha
+frooodle/s-pdf:alpha
+datagrip/oracle:19.3-se
