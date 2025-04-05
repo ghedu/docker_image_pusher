@@ -30,3 +30,7 @@ tinymediamanager/tinymediamanager
 idootop/mi-gpt-tts
 frooodle/s-pdf:alpha
 datagrip/oracle:19.3-se
+sitoi/dailycheckin:latest
+chenhw2/frp
+likeflyme/cloudbak-pro:2.0.4-beta
+likeflyme/cloudbak
