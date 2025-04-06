@@ -34,3 +34,6 @@ sitoi/dailycheckin:latest
 chenhw2/frp
 likeflyme/cloudbak-pro:2.0.4-beta
 likeflyme/cloudbak
+#openwrt镜像
+sulinggg/openwrt:x86_64
+esirpg/buddha:latest
