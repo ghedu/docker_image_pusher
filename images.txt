@@ -13,6 +13,7 @@ mariadb:10.0.25
 mariadb
 mongo
 redis
+oracle/database:12.2.0.1-ee
 #智能家居系列
 homeassistant/home-assistant:latest
 youshandefeiyang/allinone:latest
