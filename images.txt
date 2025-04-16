@@ -13,7 +13,7 @@ mariadb:10.0.25
 mariadb
 mongo
 redis
-oracle/database:12.2.0.1-ee
+
 #智能家居系列
 homeassistant/home-assistant:latest
 youshandefeiyang/allinone:latest
@@ -35,6 +35,7 @@ sitoi/dailycheckin:latest
 chenhw2/frp
 likeflyme/cloudbak-pro:2.0.4-beta
 likeflyme/cloudbak
+bestzwei/libretv
 #openwrt镜像
 sulinggg/openwrt:x86_64
 esirpg/buddha:latest
