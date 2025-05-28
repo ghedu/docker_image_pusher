@@ -40,3 +40,4 @@ bestzwei/libretv
 sulinggg/openwrt:x86_64
 esirpg/buddha:latest
 tearsful/gecoosac:latest
+rustdesk/rustdesk-server
