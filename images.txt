@@ -44,5 +44,5 @@ tearsful/gecoosac:latest
 rustdesk/rustdesk-server
 tearsful/gecoosac
 #文件管理系统
-ghcr.io/docat-org/docat
-ghcr.io/codex-team/codex.docs:latest
+docat-org/docat
+codex-team/codex.docs:latest
