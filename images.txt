@@ -6,7 +6,6 @@ xhofe/alist:v3.40.0
 #--platform=linux/arm64 xiaoyaliu/alist
 #诺兰pro镜像
 nolanhzy/pro:latest
-nolanhzy/pro:3.1.9
 #数据库
 mysql
 postgres
