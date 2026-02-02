@@ -43,6 +43,5 @@ esirpg/buddha:latest
 tearsful/gecoosac:latest
 rustdesk/rustdesk-server
 tearsful/gecoosac
-#文件管理系统
-docat-org/docat
-codex-team/codex.docs:latest
+#####
+cp0204/quark-auto-save:latest
