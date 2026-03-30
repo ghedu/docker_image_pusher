@@ -45,3 +45,4 @@ tearsful/gecoosac
 #####
 cp0204/quark-auto-save:latest
 webmonitor/ext
+logicjake/webmonitor
