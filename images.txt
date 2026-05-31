@@ -47,5 +47,6 @@ cp0204/quark-auto-save:latest
 webmonitor/ext
 logicjake/webmonitor
 
-##ocr服务
-lxyongit/ocr_api_server
+###微信code获取
+smallfawn/wechatserver:latest
+
