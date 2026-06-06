@@ -48,5 +48,5 @@ webmonitor/ext
 logicjake/webmonitor
 
 ###微信code获取
-smallfawn/wechatserver:latest
+smallfawn/wechatserver
 
