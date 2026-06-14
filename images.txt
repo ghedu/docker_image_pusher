@@ -52,3 +52,4 @@ smallfawn/wechatserver
 ####白虎面板、独立消息推送
 engigu/baihu
 engigu/message-nest
+linzixuanzz/daidai-panel  #呆呆面板
