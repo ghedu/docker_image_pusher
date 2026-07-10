@@ -14,11 +14,9 @@ mariadb
 mongo
 redis
 
-#智能家居系列
-homeassistant/home-assistant:latest
-youshandefeiyang/allinone:latest
 #其他
 whyour/qinglong:2.11.3
+whyour/qinglong:latest
 snowdreamtech/frpc
 syncthing/syncthing
 percona/watchtower
