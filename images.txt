@@ -47,8 +47,5 @@ cp0204/quark-auto-save:latest
 webmonitor/ext
 logicjake/webmonitor
 
-###微信code获取
-smallfawn/wechatserver
-####白虎面板、独立消息推送
-engigu/message-nest
-linzixuanzz/daidai-panel  #呆呆面板
+#呆呆面板
+linzixuanzz/daidai-panel
