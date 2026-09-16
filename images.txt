@@ -44,6 +44,4 @@ tearsful/gecoosac
 cp0204/quark-auto-save:latest
 webmonitor/ext
 logicjake/webmonitor
-
-#呆呆面板
-linzixuanzz/daidai-panel
+couchdb
